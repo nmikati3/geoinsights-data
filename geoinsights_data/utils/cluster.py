@@ -187,7 +187,10 @@ def run_clustering(to_cluster_df,threshold_cluster_all,threshold_recluster):
 
   #merge new labels with old labels
   all_data = pd.merge(all_data,new_data.drop(columns=['label']),how='left',on='summary')
-  all_data['label'] = all_data['label'].astype(int).astype(str) + '-' + all_data['new_label'].astype(str).str.replace('nan','nnn')
+  # Reports that skip the >=30 recluster path have a missing new_label; fill it with a
+  # sentinel before building the composite label. (pandas 3.0 keeps NaN as missing under
+  # astype(str) instead of the literal "nan", so the old replace-trick dropped these rows.)
+  all_data['label'] = all_data['label'].astype(int).astype(str) + '-' + all_data['new_label'].fillna('nnn').astype(str)
 
   #add incident id, num_reports, and incident_start_date
   to_cluster_df = pd.merge(to_cluster_df,all_data,how='left',on='summary')

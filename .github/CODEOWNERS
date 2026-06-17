@@ -1,0 +1,6 @@
+# Code owners for geoinsights-data.
+# These owners are requested for review on any pull request that touches matching files.
+# Docs: https://docs.github.com/articles/about-code-owners
+
+# Default owner for everything in the repo.
+*       @nmikati3
