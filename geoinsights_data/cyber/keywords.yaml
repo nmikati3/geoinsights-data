@@ -1,0 +1,169 @@
+keywords:
+  english:
+    - cyberattack
+    - cyber-attack
+    - ransomware
+    - malware
+    - botnet
+    - hacker
+    - spyware
+    - phishing
+  spanish and portuguese:
+    - ciberataque
+    - ataque-cibernetico
+    - pirata-informatico
+    - ciberdelincuente
+  french:
+    - cyberattaque
+    - cyber-attaque
+    - rancongiciel
+    - maliciel
+    - logiciel-malveillant
+    - programme-malveillant
+    - pirate-informatique
+    - logiciel-espion
+    - hameconnage
+  italian:
+    - attacco-informatico
+  indonesian:
+    - serangan-cyber
+    - peretas
+  german:
+    - cyberangriff
+    - cyberattacke
+    - erpressungssoftware
+    - schadsoftware
+    - botnetz
+    - computereinbrecher
+  romanian:
+    - atac-cibernetic
+    - atac-informatic
+    - atac-electronic
+  dutch:
+    - cyberaanval
+    - computeraanval
+    - gijzelsoftware
+    - gijzelingssoftware
+    - spionagesoftware
+    - visserspraktijken
+  danish:
+    - cyberangreb
+    - netangreb
+    - skadelig-software
+    - losepengevirus
+  swedish:
+    - utpressningsprogram
+    - botnat
+    - hackare
+    - utpressningsvirus
+    - skadeprogram
+    - skadlig-programvara
+    - dataskojare
+    - virusprogram
+    - spionprogram
+    - spionmjukvara
+    - natfiske
+  turkish:
+    - siber-saldiri
+    - fidye-yazilimi
+    - zararli-yazilim
+    - bot-agi
+    - casus-yazilim
+    - kimlik-avi
+    - bilgisayar-saldirisi
+    - dijital-saldiri
+    - fidye-virusu
+    - kotu-amacli-yazilim
+    - zararli-yazilim
+    - bilgisayar-korsani
+    - siber-korsan
+    - izleyici-yazilim
+  slovak:
+    - kyberneticy-utok
+    - vydieracsky-softver
+    - malverovy-softver
+    - spehovaci-softver
+  norwegian:
+    - cyberangrep
+    - skadevare
+    - spionprogramvare
+    - nettfisking
+  vietnamese:
+    - tan-cong-mạng
+    - phan-mem-chuoc-tien
+    - phan-mem-doc-hai
+    - mang-bot
+    - tin-tac
+    - phan-mem-gian-diep
+    - lua-dao-truc-tuyen
+  hungarian:
+    - kibertamadas
+    - zsarolovirus
+    - rosszindulatu-szoftver
+    - hekker
+    - kemprogram
+    - adathalaszat
+  polish:
+    - cyberatak
+    - zlosliwe-oprogramowanie
+    - haker
+    - program-szpiegujacy
+  czech:
+    - cyberutok
+    - vyderacsky-software
+    - spehovaci-software
+  croatian:
+    - cybernapad
+    - ucjena-softverom
+    - zlonamjerni-softver
+    - spijunski-softver
+    - ribarenje-podataka
+  slovenian:
+    - izsiljevalski-program
+    - zlonamerna-programska-oprema
+    - heker
+    - vohunski-program
+    - ribarjenje-podatkov
+  albanian:
+    - sulm-kibernetik
+    - softuer-i-demshem
+  bosnian:
+    - kiberneticki-napad
+    - program-za-otkupninu
+  estonian:
+    - kuberrunnak
+    - lunavara
+    - pahavara
+    - botivork
+    - hakker
+    - nuhkvara
+    - kalastamine
+  finnish:
+    - kyberhyokkays
+    - kiristysohjelma
+    - haittaohjelma
+    - bottiverkko
+    - vakoiluohjelma
+    - kalastelu
+  latvian:
+    - kiberuzbrukums
+    - izpirkuma-programmatura
+    - launprogrammatura
+    - botu-tikls
+    - izsekosanas-programma
+    - zvejosana
+  lithuanian:
+    - kibernetinis-puolimas
+    - ispirkos-programa
+    - kenkejiska-programa
+    - bot-tinklas
+    - snipinejimo-programa
+    - zukle
+  malay:
+    - serangan-siber
+    - perisian-tebusan
+    - perisian-hasad
+    - rangkaian-bot
+    - penggodam
+    - perisian-pengintipan
+    - memancing

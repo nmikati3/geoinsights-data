@@ -1,0 +1,8 @@
+# Minimal, non-pedantic lint config. CI gates only on real errors (syntax,
+# undefined names), not style — the codebase predates this config.
+target-version = "py312"
+line-length = 120
+
+[lint]
+# E9: syntax errors; F63/F7: logic errors; F82: undefined names.
+select = ["E9", "F63", "F7", "F82"]
